@@ -96,3 +96,6 @@ Choose sorting:
 - More query refinement categories
 
 ---
+
+<img width="1410" height="752" alt="WhatsApp Image 2026-06-30 at 11 47 23-clean" src="https://github.com/user-attachments/assets/b46b5326-ef0f-47bd-b138-2205cf5b20cf" />
+

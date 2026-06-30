@@ -51,35 +51,6 @@ market-lookup/
 
 ---
 
-## Installation
-
-Clone the repository.
-
-```bash
-git clone https://github.com/YOUR_USERNAME/market-lookup.git
-cd market-lookup
-```
-
-Install dependencies.
-
-```bash
-pip install -r requirements.txt
-```
-
-Create a `.env` file.
-
-```env
-SERPAPI_KEY=YOUR_API_KEY
-```
-
-Run the project.
-
-```bash
-python main.py
-```
-
----
-
 ## Example
 
 ```
@@ -125,7 +96,3 @@ Choose sorting:
 - More query refinement categories
 
 ---
-
-## License
-
-This project is licensed under the MIT License.

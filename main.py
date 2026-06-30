@@ -20,7 +20,7 @@ if __name__ == "__main__":
             print("\nHow would you like to view the results?")
             print("1. Sort by Lowest Price")
             print("2. Filter by High Rating (4.0+)")
-            print("3. Sort by AI Recommendation (Best Value)")
+            print("3. Sort by Best Value")
             print("4. Sort by Highest Trust Score")
         
             try:
